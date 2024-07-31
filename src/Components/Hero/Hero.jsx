@@ -21,7 +21,10 @@ const Hero = () => {
           </AnchorLink>
         </div>
         <div className="hero-resume">
-          <a href="./assets/RESUME_HIMANSHU_SHISHODIA.pdf" download>
+          <a
+            href="https://drive.google.com/file/d/13t3yoHDDkrXm0CST7bHwiiBzsHmCWMS2/view"
+            download
+          >
             My resume
           </a>
         </div>
