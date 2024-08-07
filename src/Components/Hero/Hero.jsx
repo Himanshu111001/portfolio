@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
         <div className="hero-resume">
           <a
-            href="https://drive.google.com/drive/u/5/folders/12rgTx4oVG4n2JFq3h99SkwcyPO-1an0y"
+            href="https://drive.google.com/file/d/1h9_rlAypd6r10GiY4iNZiUlnEel9ldfR/view?usp=drive_link"
             download
           >
             My resume
